@@ -1,8 +1,8 @@
-# Hi 👋 I'm Keerthi
+# Hi 👋 I'm Keerthana
 
-### DevOps & Cloud Engineer | Transitioning into AI/ML & MLOps
+### DevOps & Cloud Engineer focusing on AI/ML & MLOps
 
-🚀 Passionate about Cloud Infrastructure, Automation, AI/ML & Scalable Systems
+🚀 Passionate about Cloud Infrastructure, Automation, AI/ML and Scalable Systems
 
 ---
 
@@ -10,54 +10,49 @@
 
 - ☁️ AWS Cloud Practitioner Certified
 - 🤖 Completed AWS Essential AI Training
-- 🧠 Exploring Generative AI & MLOps
-- ⚙️ Hands-on experience with Kubernetes, Docker, Terraform & Jenkins
-- 🚀 Building CI/CD and Cloud-Native Projects
+- 🧠 Hands-on exposure to Generative AI, Amazon Bedrock & SageMaker AutoML
+- ⚙️ Working with Docker, Kubernetes, Terraform, Jenkins & Ansible
+- 🐧 Familiar with Linux Administration, Shell Scripting, Groovy & YAML Configurations
+- 🔄 Experience in CI/CD automation and deployment workflows
 - 📚 Completed GenAI training with HCLTech
+- 🤖 Completed Agentic AI Training
 - 🎯 Pursuing MLOps learning through KRISH AI
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Expertise
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- Docker for containerization and application portability
+- Kubernetes for orchestration, scaling and workload management
+- Terraform for Infrastructure as Code (IaC) deployments
+- Jenkins for developing and managing end-to-end CI/CD pipelines
+- Ansible for configuration management and automation
+- AWS cloud services for deployment and infrastructure management
+
+### Programming & Automation
+
+- Python for automation, scripting and AI/ML workflows
+- Linux Administration and Shell Scripting
+- Groovy scripting for Jenkins pipeline development
+- YAML configurations for Kubernetes and CI/CD workflows
 
 ### AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
+
+- Machine Learning & MLOps concepts
+- Generative AI fundamentals
+- Amazon Bedrock
+- SageMaker AutoML
+- Agentic AI
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Enterprise Project Exposure
 
-- Flask Jenkins CI/CD Application
-- EKS Terraform Infrastructure POC
-- Kubernetes Deployment Implementations
-- Java Application Deployment POC
-
----
-
-## 📊 GitHub Stats
-
-![Keerthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=keerthana-jyothi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-jyothi&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=keerthana-jyothi&theme=tokyonight)
+- Worked on Western Union project
+- Currently working on Cisco project
+- Experience with CI/CD automation and cloud deployment workflows
 
 ---
 
@@ -67,4 +62,7 @@
 
 ---
 
-⭐ Building cloud-native and AI-driven solutions
+⭐ Focused on building scalable cloud-native and AI-driven solutions
+
+
+
